@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm  Malay Virpariya</h1>
-<h1><a href="https://malayvirpariya.vercel.app/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">💼 Malay Virpariya Portfolio</a></h1>
+
 <p>Crafting end-to-end web solutions using MongoDB, Express.js, React, and Node.js with a focus on performance, usability, and clean architecture.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
