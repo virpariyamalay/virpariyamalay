@@ -70,7 +70,7 @@ Crafting end-to-end web solutions using MongoDB, Express.js, React, and Node.js 
 ### 🚀 [ QuickStay](https://github.com/virpariyamalay/QuickStay)
 - **Tech Stack:** React, Node.js, MongoDB, Express
 - **Description:** A modern hotel booking platform where users can explore, filter, and book rooms. Includes an admin panel for room and booking management.
-- **Features:** User/Admin authentication, Booking system, Responsive UI, Room filtering, JWT-based security
+- **Features:** User/Admin authentication, Booking system, Responsive UI, Room filtering, Clerk security
 
 ### 🚀 [AgriGuide](https://github.com/virpariyamalay/AgriGuide)
 - **Tech Stack:**  React, Node.js, MongoDB, Express
